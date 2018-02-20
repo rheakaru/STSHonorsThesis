@@ -3,30 +3,38 @@
    1. To gauge general reactions and see if there is a shared understanding of the meanings of the memes (background)
       1. Sample: General US population who use digital media. Through Amazon Mechanical Turk.
       2. Questions: show users several memes and ask them y/n question of if they think it’s funny. Take a random subset (about 15%) of these users and also ask them why it’s funny/what they think this is about. 
-   1. To find out perspectives on things that memes don’t capture (information gathering)
+   2. To find out perspectives on things that memes don’t capture (information gathering)
       1. Sample: General US population who use digital media. Through Amazon Mechanical Turk.
       2. Questions: ask users to rate from 1-5 their agreement for questions about:
          1. How safe they feel around their cameras and devices
          2. If they’re ever experienced a jarring moment where they felt like they were being watched (ex. When people say they talked about something and then saw an ad for it on facebook)
          3. Whether they believe the government can tap into their devices etc
-
-
-   1. To see if the findings are generalisable (experimental)
+   3. To see if the findings are generalisable (experimental)
       1. Sample: General US population who use digital media. Through Amazon Mechanical Turk.
       2. Questions: Ask users to look at memes and then pick from a multiple choice (the hypothesis would be included as an answer) the meaning they most closely associated with it. Provide “none of the above” option. 
-1. Interviews: to test hypothesis of popular imaginations
+
+
+_____________________________________________________________________________________________________________
+
+2. Interviews: to test hypothesis of popular imaginations
    1. Interview Get more messy but more rich information about people’s ideas, reactions (information gathering). 
       1. Sample: college students + some adults: Possibly differentiate based on age 
       2. Questions: What are the impressions people have about technology and government surveillance? How has this changed their use of technology?
-   1. Interview some of the creators of memes to test if it is a shared understanding. How people tap into this. (background)
+   2. Interview some of the creators of memes to test if it is a shared understanding. How people tap into this. (background)
       1. Through reverse google search, but also need to do some investigation, read more about how memes are studied. 
       2. Questions: What prompted you to create this meme, how have you seen it compare to other memes you’ve made (f you have). How old are you, what are your impressions of government surveillance? How old were you when the Snowden story broke?
-   1. Interview “experts” — on technology, surveillance, government, popular sentiment (who is the expert on popular sentiment?)
+   3. Interview “experts” — on technology, surveillance, government, popular sentiment (who is the expert on popular sentiment?)
       1. Sample: Experts on technology, on surveillance, privacy.
-1. Participant observation: Part of this is the spread of memes, but to get at the idea of the panopticon, participant observation of how people’s use of technology changes to adapt to these conditions would be very useful. Interviews would provide clues as to what to look for. 
+_____________________________________________________________________________________________________________
+
+
+3. Participant observation: Part of this is the spread of memes, but to get at the idea of the panopticon, participant observation of how people’s use of technology changes to adapt to these conditions would be very useful. Interviews would provide clues as to what to look for. 
    1. Opportunity: See how people modify their behaviors in ways that they might not mention when talking about it. (Panopticon Idea)
    2. Problem: how to carry out participant observation of individual technology use? 
-1. Examination of memes (media material/ art based expression):
+
+_____________________________________________________________________________________________________________
+
+4. Examination of memes (media material/ art based expression):
    1. Analyse meanings etc personally
    2. Test some of these on other people (interviews, surveys) to see if the meaning is shared
    3. Follow their growth: who created them, how did they spread
@@ -35,7 +43,10 @@
    2. Algorithmic selection through the hashtag (sort by most popular, sort by most recent) 
    3. Reverse Google image search (to track the memes back to origins, if need arises) 
    4. Use DIS (Discover, Identify and Study) method to identify the folk theories from the above methods.
-1. Examination of news articles (media materials) 
+
+_____________________________________________________________________________________________________________
+
+5. Examination of news articles (media materials) 
    1. Look at headlines to see how coverage changed over time. Look at some of their pieces for more qualitative analysis of how the information was communicated. This is to look at the governance issue. 
    2. Look through archives to see how coverage changed — this will be far more qualitative. This is to understand the more technical side of the surveillance.
    3. Popular news (Access through archives): 
