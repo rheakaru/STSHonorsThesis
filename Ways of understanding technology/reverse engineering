@@ -1,0 +1,33 @@
+"So what does “reverse engineering” mean? What kind of things can be reverse
+engineered? What assumptions does reverse engineering make about its
+objects? Like any frame, reverse engineering constrains as well as enables the
+presentation of certain stories. I want to suggest here that, while reverse
+engineering might be a useful strategy for figuring out how an existing
+technology works, it is less useful for telling us how it came to work that way.
+Because reverse engineering starts from a finished technical object, it misses
+the accidents that happened along the way—the abandoned paths, the
+unusual stories behind features that made it to release, moments of
+interpretation, arbitrary choice, and failure. Decisions that seemed rather
+uncertain and subjective as they were being made come to appear necessary
+in retrospect. Engineering looks a lot diferent in reverse."
+
+
+"Paycheck illustrates a very popular way of thinking about engineering
+knowledge. To know about something is to know the facts about how it
+works. These facts are like physical objects—they can be hidden (inside of
+technologies, corporations, envelopes, or brains), and they can be retrieved
+and moved around. In this way of thinking about knowledge, facts that we
+don’t yet know are typically hidden on the other side of some barrier. To
+know through reverse engineering is to know by trying to pull those preexisting
+facts out."
+
+"Although structuralism sounds like a fairly technical way to analyze cultural
+material, it is not, strictly speaking, objective. When you break an object down
+into its parts and put it back together again, you have not simply copied it—
+you’ve made something new. A movie’s set of microtags, no matter how finegrained,
+is not the same thing as the movie. It is, as Barthes writes, a
+“directed, interested simulacrum” of the movie, a re-creation made with
+particular goals in mind. If you had diferent goals—diferent ideas about
+what the significant parts of movies were, diferent imagined use-cases—you
+might decompose diferently. There is more than one way to tear apart
+content."
